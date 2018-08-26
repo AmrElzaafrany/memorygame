@@ -7,8 +7,8 @@
 3. Use your memory to remember what symbol shows up on which card.
 4. You win the game when all 16 cards are matched!
 
-[Click here to play]()
-![game preview]("game preview")
+[Click here to play](https://amrelzaafrany.github.io/memorygame/)
+![game preview](https://github.com/AmrElzaafrany/memorygame/blob/master/img/matching%20game.PNG"game preview")
 
 ## Student Project
 

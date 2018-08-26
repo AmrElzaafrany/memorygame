@@ -75,7 +75,7 @@ const createDeck = () => {
  * append them in deck
  */
 const addCards = (cards, deck) => {
-    //shuffle(cards);
+    shuffle(cards);
     cards.forEach((card) => {
         deck.appendChild(card);
     });
