@@ -165,6 +165,8 @@ function resetTimer() {
 }
 
 function resetMoves() {
+    openedCards = [];
+    openedCards.innerHTML = "";
     moves = 0;
     counter.innerHTML = moves;
 }
