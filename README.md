@@ -8,7 +8,9 @@
 4. You win the game when all 16 cards are matched!
 
 [Click here to play](https://amrelzaafrany.github.io/memorygame/)
-![game preview](https://github.com/AmrElzaafrany/memorygame/blob/master/img/matching%20game.PNG"game")
+
+
+![game preview](https://github.com/AmrElzaafrany/memorygame/blob/master/img/matching%20game.PNG)
 
 ## Student Project
 
